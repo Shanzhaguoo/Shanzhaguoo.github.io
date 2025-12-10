@@ -29,7 +29,7 @@ f:I[9665,[],"ViewportBoundary"]
 
 **Research Intern**
 [XYZ Embodied AI](https://xyz-eai.com/index.html)
-*2025.06-2025.10*
+*2025.10-present*
 
 **Research Intern**
 Tsinghua University - [Graphics & Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/)
